@@ -23,7 +23,8 @@ Gimme gimme Now Gimme gimme now
     <td align="center"><a href="https://github.com/be-student"><img src="https://avatars.githubusercontent.com/u/80899085?v=4" width="100px;" alt=""/><br /><sub><b>누누</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/xxeol2"><img src="https://avatars.githubusercontent.com/u/71129059?v=4" width="100px;" alt=""/><br /><sub><b>애쉬</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ingpyo"><img src="https://avatars.githubusercontent.com/u/109223081?v=4" width="100px;" alt=""/><br /><sub><b>비버</b></sub></a><br /></td>
-      
+    <td align="center"><a href="https://github.com/HubCreator"><img src="https://avatars.githubusercontent.com/u/44110749?v=4" width="100px;" alt=""/><br /><sub><b>헙크</b></sub></td>
+    <td align="center"><a href="https://github.com/echo724"><img src="https://avatars.githubusercontent.com/u/50057022?v=4" width="100px;" alt=""/><br /><sub><b>에코</b></sub></a><br /></td>
   </tr>
 </table>
 
